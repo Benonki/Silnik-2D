@@ -2,7 +2,7 @@
 
 A 2D engine in C++ in SFML, in which we have various tools at our disposal that allow us to create our own world.
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repository:
     ```bash
