@@ -11,7 +11,7 @@ A 2D engine in C++ in SFML, in which we have various tools at our disposal that 
 2. Open project in VS (2022 for example) and run the project.
 
 
-## Showcase
+## 🖼️ Showcase
 
 <div align="center">
   <img src="https://github.com/Benonki/Portfolio/blob/main/StronaGlowna/sc/silnik2d.PNG" alt="Preview of My Project">
